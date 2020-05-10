@@ -1,0 +1,13 @@
+Event type 				Description
+EVENT_MOUSEMOVE 		When the user moves the mouse
+EVENT_LBUTTONDOWN 		When the user pushes the left mouse button
+EVENT_RBUTTONDOWN 		When the user pushes the right mouse button
+EVENT_MBUTTONDOWN 		When the user pushes the middle mouse button
+EVENT_LBUTTONUP 		When the user releases the left mouse button
+EVENT_RBUTTONUP 		When the user releases the right mouse button
+EVENT_MBUTTONUP 		When the user releases the middle mouse button
+EVENT_LBUTTONDBLCLK 	When the user double-clicks with the left mouse button
+EVENT_RBUTTONDBLCLK 	When the user double-clicks with the right mouse button
+EVENT_MBUTTONDBLCLK 	When the user double-clicks with the middle mouse button
+EVENTMOUSEWHEEL 		When the user does a vertical scroll with the mouse wheel
+EVENT_MOUSEHWHEEL 		When the user does a horizontal scroll with the mouse wheel
