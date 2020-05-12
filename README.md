@@ -22,7 +22,8 @@ Download the NumPy package and OpenCV package
 	
 #### Install the NumPy and OpenCV packages
 Open Command Prompt as Administrator
-Go to the downloads folder where the packages are downloaded and copy the file path
+
+Go to the downloads folder where the packages are downloaded
 
 	cd /path
 	dir
