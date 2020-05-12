@@ -1,4 +1,4 @@
-# INSTALL ON WINDOWS 7+
+INSTALL ON WINDOWS 7+
 ======================
 ### 1.1 Install Python
 
