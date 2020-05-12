@@ -16,9 +16,9 @@ Open Command Prompt and check whether python is installed correctly
 	
 ### 1.3 Download and install Numpy OpenCV Matplotlib	
 #### Download the NumPy package and OpenCV package
-https://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy
-https://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv
-https://www.lfd.uci.edu/~gohlke/pythonlibs/#matplotlib
+    https://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy
+    https://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv
+    https://www.lfd.uci.edu/~gohlke/pythonlibs/#matplotlib
 	
 #### Install the NumPy and OpenCV packages
 Open Command Prompt as Administrator
