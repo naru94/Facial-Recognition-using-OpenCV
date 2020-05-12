@@ -37,10 +37,10 @@ Open Command Prompt
 #### NumPy:
 	import numpy
 	numpy.__version__
-#### OpenCV
+#### OpenCV:
 	import cv2
 	cv2.__version__
-#### Matplotlib
+#### Matplotlib:
 	import matplotlib
 	matplotlib.__version__
 	
