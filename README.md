@@ -12,7 +12,7 @@ Inside Anaconda open - CMD.exe Prompt
 	pip install opencv-python==3.4.2.17
 	pip install opencv-contrib-python==3.4.2.17
 	
-This shows that the installation was successful.
+Open Jupyter Notebook and you are ready to go.
 
 
 Follow Windows 7+ install when using Python IDLE 
