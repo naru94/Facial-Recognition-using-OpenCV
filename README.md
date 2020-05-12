@@ -4,7 +4,7 @@ INSTALL ON WINDOWS 7+
 
 www.python.org
 
-#### Download and install the latest package of Pyhton
+#### Download and install the latest package of Python
 
 Open Command Prompt and check whether python is installed correctly
 	python
