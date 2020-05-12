@@ -1,4 +1,4 @@
-Follow Anaconda Install when following Jupyter notebook 
+Follow Anaconda install when using Jupyter notebook 
 =======================================================
 ### 1.1 Install Anaconda
 
