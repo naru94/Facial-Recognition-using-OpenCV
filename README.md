@@ -7,6 +7,7 @@ www.python.org
 #### Download and install the latest package of Python
 
 Open Command Prompt and check whether python is installed correctly
+
 	python
 	exit()
 	
