@@ -1,5 +1,22 @@
-INSTALL ON WINDOWS 7+
-======================
+Follow Anaconda install when using Jupyter notebook 
+=======================================================
+### 1.1 Install Anaconda
+
+https://www.anaconda.com/products/individual
+
+Download and install the lastest version of Anaconda
+
+### 1.2 Download and install OpenCV and OpenCV contrib
+Inside Anaconda open - CMD.exe Prompt
+
+	pip install opencv-python==4.<latest version>
+	pip install opencv-contrib-python==4.<latest version>
+	
+Open Jupyter Notebook and you are ready to go.
+
+
+Follow Windows 7+ install when using Python IDLE 
+================================================
 ### 1.1 Install Python
 
 www.python.org
