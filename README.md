@@ -1,4 +1,4 @@
-Follow Anaconda install when using Jupyter notebook 
+Anaconda and Jupyter notebook 
 =======================================================
 ### 1.1 Install Anaconda
 
@@ -15,7 +15,7 @@ Inside Anaconda open - CMD.exe Prompt
 Open Jupyter Notebook and you are ready to go.
 
 
-Follow Windows 7+ install when using Python IDLE 
+Windows 7+ and Python IDLE 
 ================================================
 ### 1.1 Install Python
 
