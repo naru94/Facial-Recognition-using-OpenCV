@@ -12,6 +12,10 @@ Inside Anaconda open - CMD.exe Prompt
 	pip install opencv-python==4.<latest version>
 	pip install opencv-contrib-python==4.<latest version>
 	
+	pip install opencv-python==4.6.0.66
+	pip install opencv-contrib-python==4.6.0.66
+	
+	
 Open Jupyter Notebook and you are ready to go.
 
 
